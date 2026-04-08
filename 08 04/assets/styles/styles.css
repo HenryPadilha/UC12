@@ -1,0 +1,101 @@
+div{
+    border: 2px solid red;
+}
+
+span{
+    border: 2px solid blue;
+}
+
+.atividade2{
+    width: 200px;
+    border: 2px solid pink;
+    background-color: rgb(187, 16, 16);
+}
+
+.atvdd2{
+    width: 200px;
+    border: 2px solid red;
+    background-color: blue;
+}
+.a3{
+  width: 200px;
+  background-color: blue;
+}
+.b3{
+    width: 300px;
+    background-color: red;
+}
+.a4{
+   display: inline-block;
+   width: 200px;
+   background-color: blue;
+}
+.b4{
+    display: inline-block;
+    width: 200px;
+    background-color: red;
+}
+.a5{ 
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+.b5{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+.c5{
+ display: inline-block;
+ height: 100px;
+ width: 100px;
+ background-color: green;
+}
+
+.a6{
+    display: block;
+    width: 150px;
+    height: 80px;
+    background-color: gray;
+}
+.b6{
+    display: inline;
+    width: 150px;
+    height: 80px;
+    background-color: gray;
+}
+.c6{
+    display: inline-block;
+    width: 150px;
+    height: 80px;
+    background-color: gray;
+}
+.a7{
+    display: none;
+    background-color: black;
+}
+.a8
+
+.a9{
+  display: inline-block;
+  width: 200px;
+  background: gray;
+}
+nav a{
+    display: inline-block;
+    margin-right: 20px;
+}
+.card{
+    width: 300;
+    padding: 20px;
+    background-color: lightgray;
+}
+.cardinline{
+    display: inline-block;
+}
+.cardbutton{
+  display: inline-block;
+  width: 100px;
+}
